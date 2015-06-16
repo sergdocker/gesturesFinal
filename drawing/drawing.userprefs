@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Mtap.cs">
+    <Files>
+      <File FileName="Assets/Scripts/testBang.cs" Line="8" Column="44" />
+      <File FileName="Assets/Scripts/Mtap.cs" Line="29" Column="5" />
+      <File FileName="Assets/Scripts/Vtap.cs" Line="8" Column="3" />
+      <File FileName="Assets/Scripts/Ctap.cs" Line="9" Column="16" />
+      <File FileName="Assets/Scripts/Vstages.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/startNewLvl.cs" Line="4" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
